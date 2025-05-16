@@ -6,4 +6,4 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     # Change "World" to your name when testing
-    print(greet("World"))
+    print(greet("✨ from feature branch"))
